@@ -1,0 +1,13 @@
+"G:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"G:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armJET.dll" 
+
+"G:\Maxim\Firmware\MAX3263X\Applications\EvKitExamples\FreeRTOSDemo\IAR\Debug\Exe\FreeRTOSDemo.out" 
+
+--plugin "G:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--flash_loader "G:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\Maxim\FlashMAX32630.board" 
+
+
+
+
